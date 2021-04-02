@@ -1,2 +1,2 @@
 # env.pro
-REACT_APP_BASE_URL='http://pro.xxx.xxx'
+REACT_APP_BASE_URL='https://hengzhuo.vip/hengz'
